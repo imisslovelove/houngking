@@ -1,1 +1,1 @@
-Sitemap: https://slashsbin.com/sitemap.xml
+Sitemap: https://houngkinghsi.github.com/sitemap.xml
