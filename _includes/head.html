@@ -23,7 +23,7 @@
         <meta name="description" content="{% if page.hash %}{{ page.content | strip_html | truncate: 160 }}{% else %}Personal Website of Houngking Hsi{% endif %}">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="keywords" content="indeex, Houngking Hsi, Houngking, indeex, slash sBin, Software Engineer, cyberRoze, 0x004D44, cyberRoze.md, imisslovelove">
-        <title>{% if page.hash %}{{ page.header }}{% else %}&Omega;in{% if page.title %}/{{ page.title }}{% endif %}{% endif %}</title>
+        <title>{% if page.hash %}{{ page.header }}{% else %}&Omega;{% if page.title %}/{{ page.title }}{% endif %}{% endif %}</title>
 
         <link rel="canonical" href="//houngkinghsi.github.com{{ page.url | replace:'index.html','' }}">
         <link href="//houngkinghsi.github.com/feed.xml" type="application/atom+xml" rel="alternate" title="indeex Blog ATOM Feed" />
