@@ -24,13 +24,13 @@
                         <li><a href="{{ page.uri }}#mentorship">Mentorship</a></li>
                     </ul>
                     <ul class="nav navbar-nav hidden-xs">
-                        <li><a id="logo" href="{{ page.uri }}/blog/" class="navbar-link /blog/">&Omega;</a></li>
+                        <li><a id="logo" href="{{ page.uri }}#Ω" class="navbar-link /">&Omega;</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                     	<li><a href="{{ page.uri }}#vision">Vision</a></li>
                         <li><a href="{{ page.uri }}#onTheNet">On The NET</a></li>
                         <li><a href="{{ page.uri }}#contact">Contact</a></li>
-                        <li><a id="etc-stackexchange" class="tt icon" data-toggle="tooltip" data-placement="top" title="StackExchange" data-icon="commandline" data-icon-theme="darkBlue" data-icon-size-x="64" data-icon-size-y="64" href="imisslovelove.github.io" target="imisslovelove.github.io"></a></li>
+                        <li{% if page.active == 'blog' %} class="active"{% endif %}><a href="/blog/">blog</a></li>
                     </ul>
                 </div>
             </div>
