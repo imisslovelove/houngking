@@ -58,6 +58,8 @@ links:
     url: /categories
   - title: Tags
     url: /tags
+  - title: Faysal who?
+    url: /
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -86,7 +88,7 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://imisslovelove.github.io/houngking'
+  siteurl: 'http://imisslovelove.github.io'
   relativeLinks: 'http://imisslovelove.github.io/houngking/links.jsonp'
   media: 'images'
   metadata:
