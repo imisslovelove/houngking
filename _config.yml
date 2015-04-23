@@ -88,7 +88,7 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://imisslovelove.github.io'
+  siteurl: 'http://imisslovelove.github.io/houngking'
   relativeLinks: 'http://imisslovelove.github.io/houngking/links.jsonp'
   media: 'images'
   metadata:
