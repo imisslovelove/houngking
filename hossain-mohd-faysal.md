@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /houngking/index.html
+permalink: imisslovelove.github.io/houngking/index.html
 title: Houngking
 tags: [houngking, imisslovelove, 上官芙蓉君, thecodeway]
 image:
