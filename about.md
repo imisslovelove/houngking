@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: About
-description: Electrical Engineer, Mathematician, Entrepreneur
+description: Electrical Engineer, Mathematician, Physicist
 headline: Houngking Hsi
 tags: [indeex, houngking, Houngking Hsi]
 modified: 2011-09-18
