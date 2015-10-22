@@ -9,8 +9,8 @@ modified: 2011-09-18
 image:
   feature: Hossain-Mohd-Faysal.jpg
   credit: 
-  location: The Pearl Qatar
-  creditlink: http://en.wikipedia.org/wiki/The_Pearl-Qatar
+  location: Shanghai of china
+  creditlink: http://indeex.org
 ---
 
 >"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."
