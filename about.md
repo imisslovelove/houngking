@@ -18,6 +18,6 @@ image:
 
 My name is **Houngking Hsi**, and this is my personal blog.  
 
-welcome come to there:<a markdown="0" visited="{color:#ffffff}" href="http://indeex.org/houngking" class="btn">houngking</a>  
+welcome come to there:<a markdown="0" href="http://indeex.org/houngking" class="btn">houngking</a>  
 
 <a markdown="0" href="http://houngking.ml" class="btn">Technical Details</a> <a markdown="0" href="http://blog.sina.com.cn/imisslovelove" class="btn">Check out my blog</a> <a markdown="0" href="http:indeex.org/houngking/about/" class="btn">Join my Social Network</a>
